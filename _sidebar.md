@@ -348,6 +348,7 @@
     - [sajidul-kabir](/templates/sajidul-kabir.md)
     - [sambhav2612](/templates/sambhav2612.md)
     - [sameer1604](/templates/sameer1604.md)
+    - [sandofvega](/templates/sandofvega.md)
     - [sanket9006](/templates/sanket9006.md)
     - [Sanskarjaiswal2001](/templates/Sanskarjaiswal2001.md)
     - [sanskarsahu](/templates/DSmark.md)
